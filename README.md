@@ -23,5 +23,25 @@ Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
 
 Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
 
+### Why We Select this Dev Stack?
+This server implemented a video call using socketio for StateFull based on Flask Framework.
+
+When selecting a technology stack, the following criteria were set.
+1. It should be able to be organized based on the group to participate in the call room.
+2. Network protocol with low delay should be used for video calls.
+3. You have to write down the running curve.
+4. Must be web-based.
+
+So after considering it, I decided to make Socketio based on Flask.
+
+Socketio chose the back-end technology stack because it is stateful and easy to manage and control users based on multi-tenancy architecture in addition to low running curves.
+So this server is based on a multi-tenancy architecture.
+
+### Major Features
+
+The wecho backend uses Azure's Congitive Service to provide a total of three major functions of wecho. The first is the function that the user tells the callers by chatting instead. Second one is the ability to transcribe what the user says into the chat room. The third function is to translate what the user says into Korean and interpret it from the side of the interpreter.
+
+These features were created using Azure's Creative Service API above.
+
 ### License 
 Weco is [MIT licensed](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/LICENSE)
