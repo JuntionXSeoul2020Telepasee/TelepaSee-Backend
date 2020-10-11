@@ -2,7 +2,7 @@
 
 Weco, a video conferencing software, connects everyone's echo. We contribute to an inclusive society. 
 
-### Summary
+### Microsoft Azure Cognitive Services
 
 This backend has already completed our main features by using Microsoft Azure Cognitive Services. Firsly, Weco deployed Azure Cognitive Service on Azure portal. Secondly, we brainstormed to choosing technologies from Azure services, then selected some API services from Microsof Azure Cognitive Services to tackle our issues and develop our solutions.
 In order to develop our solutions that mentioned in [project proposal](https://drive.google.com/file/d/1FYdHjCYG57b0U-Go4lhKOeZSk-0WucPX/view), we implemented these features: 
