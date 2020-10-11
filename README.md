@@ -9,3 +9,7 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 + Speech to Text API [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
 + Text to Speech API [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
 + Translation that implemented 2 languages English and Korean [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation)
+
+### Future Plan
+
+Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to implement other features from Azure to impmrove this project such as Azure databases and Azure server in the future. 
