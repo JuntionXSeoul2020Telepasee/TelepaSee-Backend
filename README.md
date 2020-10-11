@@ -12,7 +12,7 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 
 ### Future Plan
 
-Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to implement other features from Azure to improve this project such as Azure databases and Azure server in the future. 
+Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to improve this project through some other features from Microsoft Azure services such as Azure databases and Azure server in the future. 
 
 ### More Detailed Description can be found below
 Project Proposal Link: [Weco Proposal File](https://drive.google.com/file/d/1FYdHjCYG57b0U-Go4lhKOeZSk-0WucPX/view?usp=sharing)
