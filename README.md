@@ -13,3 +13,6 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 ### Future Plan
 
 Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to implement other features from Azure to improve this project such as Azure databases and Azure server in the future. 
+
+### License 
+Weco is [MIT licensed](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/LICENSE)
