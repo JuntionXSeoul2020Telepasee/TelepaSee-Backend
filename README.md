@@ -24,7 +24,7 @@ Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
 Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
 
 ### Acknowledgements
-We would like to express our very great appreciation to people from JunctionxSeoul for their valuable support and organize many activities. We would like to express our deep gratitude to mentors from Microsoft for their enthusiatic encouragement and Azure Microsoft credits for using API services in Azure platform.
+We would like to express our very great appreciation to people from JunctionxSeoul for their valuable support and organize many activities. We would like to express our deep gratitude to mentors from Microsoft for their enthusiatic encouragement and Azure Microsoft credits for us to use API services in Azure platform to develop this project.
 
 ### License 
 Weco is [MIT licensed](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/LICENSE)
