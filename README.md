@@ -3,9 +3,13 @@
 Weco, a video conferencing software, connects everyone's echo. We contribute to an inclusive society. 
 
 More detailed desciption can be found below.
+
 Project Proposal Link: [Weco Proposal File](https://drive.google.com/file/d/1FYdHjCYG57b0U-Go4lhKOeZSk-0WucPX/view?usp=sharing)
+
 Main Video: [Weco Main Video](https://youtu.be/Jxf5ISGTHdc)
+
 Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
+
 Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
 
 ### Summary
