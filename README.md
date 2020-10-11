@@ -12,7 +12,7 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 
 ### Future Plan
 
-Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to implement other features from Azure to improve this project such as Azure databases and Azure server in the future. 
+Because of the short time, we have just implemented 3 features from Microsoft Azure Cognitive Service and we have a plan to improve this project through some other features from Microsoft Azure services such as Azure databases and Azure server in the future. 
 
 ### More Detailed Description can be found below
 Project Proposal Link: [Weco Proposal File](https://drive.google.com/file/d/1FYdHjCYG57b0U-Go4lhKOeZSk-0WucPX/view?usp=sharing)
@@ -22,6 +22,9 @@ Main Video: [Weco Main Video](https://youtu.be/Jxf5ISGTHdc)
 Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
 
 Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
+
+### Acknowledgements
+We would like to express our very great appreciation to people from JunctionxSeoul for their valuable support and organize many activities. We would like to express our deep gratitude to mentors from Microsoft for their enthusiatic encouragement and Azure Microsoft credits for us to use API services in Azure platform to develop this project.
 
 ### Why We Select this Dev Stack?
 This server implemented a video call using socketio for StateFull based on Flask Framework.
