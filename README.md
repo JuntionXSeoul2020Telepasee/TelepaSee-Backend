@@ -25,14 +25,14 @@ In order to develop our solutions that mentioned in [project proposal](https://g
 + [Translation API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation) that consists of English and Korean
 
 
-### More Detailed Description can be found below
-Project Proposal Link: [Weco Proposal File](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf)
+### More Detailed Description
++ Project Proposal Link: [Weco Proposal File](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf)
 
-Main Video: [Weco Main Video](https://youtu.be/7XLksyDRivk)
++ Main Video: [Weco Main Video](https://youtu.be/7XLksyDRivk)
 
-Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
++ Prototype Video: [Weco Prototype Video](https://youtu.be/px1pHuXSqB0)
 
-Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
++ Git Repository Link: [Weco Git Repository](https://github.com/JuntionXSeoul2020Telepasee)
 
 ### Acknowledgements
 We would like to express our very great appreciation to people from JunctionxSeoul for their valuable support and organize many activities. We would like to express our deep gratitude to mentors from Microsoft for their enthusiastic encouragement and Azure Microsoft credits for us to use API services in the Azure platform to develop this project.
