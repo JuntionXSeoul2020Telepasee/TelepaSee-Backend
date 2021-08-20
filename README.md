@@ -26,7 +26,7 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 
 
 ### More Detailed Description can be found below
-Project Proposal Link: [Weco Proposal File](https://drive.google.com/file/d/1FYdHjCYG57b0U-Go4lhKOeZSk-0WucPX/view?usp=sharing)
+Project Proposal Link: [Weco Proposal File](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf)
 
 Main Video: [Weco Main Video](https://youtu.be/7XLksyDRivk)
 
