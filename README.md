@@ -25,7 +25,7 @@ In order to develop our solutions that mentioned in [project proposal](https://d
 + Translation that implemented 2 languages English and Korean [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation)
 
 
-### More Detailed Description can be found below
+### More Detailed Description
 Project Proposal Link: [Weco Proposal File](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf)
 
 Main Video: [Weco Main Video](https://youtu.be/7XLksyDRivk)
