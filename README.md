@@ -20,9 +20,9 @@ We are delivering inclusiveness to those who are incapable of speaking, reading,
 Weco handles features mentioned above with Microsoft Azure Cognitive Services. In order to transcribe speech accurately from users into text, Weco implemented Spech to Text API and deployed this service on the Azure portal. On the other hand, in order to convert text to natural sounding voices in the transcript, we used Text to Speech API. Lastly, Speech Translation API is used to implement the chat and transcript translation, providing a fair and equal opportunity for everyone in the world to communicate.
 
 In order to develop our solutions that mentioned in [project proposal](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf), we implemented these above features: 
-+ Speech to Text API [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
-+ Text to Speech API [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
-+ Translation that implemented 2 languages English and Korean [source code](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation)
++ [Speech to Text API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
++ [Text to Speech API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT)
++ [Translation API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation) that implemented 2 languages English and Korean
 
 
 ### More Detailed Description can be found below
