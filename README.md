@@ -22,7 +22,7 @@ Weco handles the features mentioned above with Microsoft Azure Cognitive Service
 In order to develop our solutions mentioned in the [project proposal](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf), we implemented these above features: 
 + [Speech to Text API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT) that transcribes speech accurately from users into text
 + [Text to Speech API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/STT) that converts text to natural sounding voices
-+ [Translation API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation) that consists of English and Korean
++ [Translation API](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/tree/master/translation) that is implemented in English and Korean
 
 
 ### More Detailed Description
