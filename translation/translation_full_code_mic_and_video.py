@@ -6,7 +6,6 @@
 """
 Translation recognition for the Microsoft Cognitive Services Speech SDK
 """
-
 import time
 
 try:
