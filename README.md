@@ -1,6 +1,7 @@
-# JunctionX Seoul 2020 | Weco | Team Telepa-see
+# JunctionX Seoul 2020 | Weco | Team Telepa-see | 
 
 Weco, a video conferencing software, connects everyone's echo. Weco will help anyone inclusively communicate with Weco's promising features. 
+### [Project Proposal](https://github.com/JuntionXSeoul2020Telepasee/TelepaSee-Backend/blob/master/project-proposal.pdf)
 
 ### Background and Problem Definition
 
