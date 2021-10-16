@@ -16,7 +16,6 @@ Everything we talk about in video conferences is updated in real-time with a tra
 
 We are delivering inclusiveness to those who are incapable of speaking, reading, or understanding in a video conferencing session.
 
-
 ### Technologies
 Weco handles the features mentioned above with Microsoft Azure Cognitive Services. In order to transcribe speech accurately from users into text, Weco implemented Speech to Text API and deployed this service on the Azure portal. On the other hand, in order to convert text to natural sounding voices in the transcript, we used Text to Speech API. Lastly, Speech Translation API is used to implement the chat and transcript translation, providing a fair and equal opportunity for everyone in the world to communicate.
 
